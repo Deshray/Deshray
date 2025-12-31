@@ -33,6 +33,4 @@ Stress testing, scenario analysis, and system-level insights
 • Traffic Congestion Agent-Based Model: Simulated vehicle interactions to study congestion emergence, density–flow relationships, and stochastic variability using Monte Carlo experiments.
 
 
-I care more about depth, correctness, and insight than flashy tools. If a simple model explains the system well, that’s a win.
-
 Outside of coding, I enjoy football, track & field, and listening to music while thinking through problems 🎧
