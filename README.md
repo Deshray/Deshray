@@ -28,6 +28,7 @@ Stress testing, scenario analysis, and system-level insights
 • Style: clean experiments, reproducible results, clear interpretation
 
 **📌 Selected projects**
+
 • Ontario Electricity Demand Forecasting: Built a forecasting pipeline using linear and quantile regression, evaluated uncertainty with simulation, and analyzed peak-demand risk over multi-day horizons.
 
 • Traffic Congestion Agent-Based Model: Simulated vehicle interactions to study congestion emergence, density–flow relationships, and stochastic variability using Monte Carlo experiments.
